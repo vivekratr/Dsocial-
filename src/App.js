@@ -7,7 +7,7 @@ import Homi from "./component/Homi";
 import Register from "./component/Register";
 import MyComponent from "./component/Interest";
 import Post from "./component/Post";
-import PostComponent from "./component/PostComponent";
+import PostComponent from "./component/PostComponent"; 
 function App() {
   return (
     <BrowserRouter>
