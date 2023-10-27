@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home1 from "./component/Home1";
 import { SocoinProvider } from "./context/ContextProvider";
 import Homi from "./component/Homi";
-import Register from "./component/Register";
+import Register from "./component/Register";  
 import MyComponent from "./component/Interest";
 import Post from "./component/Post";
 import PostComponent from "./component/PostComponent"; 
